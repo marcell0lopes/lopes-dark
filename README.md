@@ -1,5 +1,8 @@
-# Lopes Theme
+# Lopes (Dark) Theme
 
-## Custom VSCode Theme
+version 0.1
+![LopesDark](theme-preview.png)
 
-### :hourglass: OnGoing...
+Lopes Dark is a fun high contrasted dark theme. Not much to say.
+
+Feel free to give feedbacks and suggestions. Thank you! :)
