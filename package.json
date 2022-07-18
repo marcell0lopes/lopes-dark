@@ -4,7 +4,7 @@
   "description": "Lopes Dark Theme",
   "publisher": "MarcelloLopes",
   "author": "Marcello Lopes",
-  "version": "0.1",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^1.69.0"
   },
