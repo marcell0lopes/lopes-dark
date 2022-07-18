@@ -1,21 +1,21 @@
 {
-    "name": "lopes-dark-theme",
-    "displayName": "Lopes Dark",
-    "description": "Lopes Dark Theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.69.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Lopes Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Lopes Dark-color-theme.json"
-            }
-        ]
-    }
+  "name": "lopes-dark-theme",
+  "displayName": "Lopes Dark",
+  "description": "Lopes Dark Theme",
+  "version": "0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lopes Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lopes Dark-color-theme.json"
+      }
+    ]
+  }
 }
